@@ -1,0 +1,189 @@
+[2024-03-12 22:59:41] [ INFO ] [BD:50] Estamos creando las tablas
+[2024-03-12 22:59:42] [ INFO ] [BD:74] Se crearon las tablas exitosamente
+[2024-03-12 23:02:59] [ INFO ] [OdontologoDaoH2:21] Estamos persistiendo un odontologo
+[2024-03-12 23:03:00] [ INFO ] [OdontologoDaoH2:49] Se persistio un nuevo odontologo exitosamente
+[2024-03-12 23:03:00] [ INFO ] [OdontologoDaoH2:21] Estamos persistiendo un odontologo
+[2024-03-12 23:03:01] [ INFO ] [OdontologoDaoH2:49] Se persistio un nuevo odontologo exitosamente
+[2024-03-12 23:03:01] [ INFO ] [OdontologoDaoH2:56] Estamos consultando todos los odontologos
+[2024-03-12 23:03:01] [ INFO ] [OdontologoDaoH2:85] Se consultaron todos los odontologos exitosamente
+[2024-03-12 23:05:19] [ INFO ] [BD:50] Estamos creando las tablas
+[2024-03-12 23:05:20] [ INFO ] [BD:74] Se crearon las tablas exitosamente
+[2024-03-12 23:05:36] [ INFO ] [BD:50] Estamos creando las tablas
+[2024-03-12 23:05:37] [ INFO ] [BD:74] Se crearon las tablas exitosamente
+[2024-03-12 23:05:55] [ INFO ] [BD:50] Estamos creando las tablas
+[2024-03-12 23:05:56] [ INFO ] [BD:74] Se crearon las tablas exitosamente
+[2024-03-15 11:55:45] [ INFO ] [BD:50] Estamos creando las tablas
+[2024-03-15 11:55:46] [ INFO ] [BD:74] Se crearon las tablas exitosamente
+[2024-03-15 12:31:33] [ INFO ] [BD:50] Estamos creando las tablas
+[2024-03-15 12:31:34] [ INFO ] [BD:74] Se crearon las tablas exitosamente
+[2024-03-15 12:34:30] [ INFO ] [BD:50] Estamos creando las tablas
+[2024-03-15 12:34:30] [ INFO ] [BD:74] Se crearon las tablas exitosamente
+[2024-03-15 12:55:43] [ INFO ] [BD:50] Estamos creando las tablas
+[2024-03-15 12:55:43] [ INFO ] [BD:74] Se crearon las tablas exitosamente
+[2024-03-15 13:11:53] [ INFO ] [BD:50] Estamos creando las tablas
+[2024-03-15 13:11:53] [ INFO ] [BD:74] Se crearon las tablas exitosamente
+[2024-03-15 13:12:52] [ INFO ] [BD:50] Estamos creando las tablas
+[2024-03-15 13:12:53] [ INFO ] [BD:74] Se crearon las tablas exitosamente
+[2024-03-15 13:13:08] [ INFO ] [BD:50] Estamos creando las tablas
+[2024-03-15 13:13:08] [ INFO ] [BD:74] Se crearon las tablas exitosamente
+[2024-03-15 13:13:12] [ INFO ] [BD:50] Estamos creando las tablas
+[2024-03-15 13:13:13] [ INFO ] [BD:74] Se crearon las tablas exitosamente
+[2024-03-15 13:13:36] [ INFO ] [BD:50] Estamos creando las tablas
+[2024-03-15 13:13:37] [ INFO ] [BD:74] Se crearon las tablas exitosamente
+[2024-03-15 13:15:00] [ INFO ] [BD:50] Estamos creando las tablas
+[2024-03-15 13:15:01] [ INFO ] [BD:74] Se crearon las tablas exitosamente
+[2024-03-15 13:16:01] [ INFO ] [BD:50] Estamos creando las tablas
+[2024-03-15 13:16:01] [ INFO ] [BD:74] Se crearon las tablas exitosamente
+[2024-03-15 13:24:24] [ INFO ] [BD:50] Estamos creando las tablas
+[2024-03-15 13:24:25] [ INFO ] [BD:74] Se crearon las tablas exitosamente
+[2024-03-15 13:32:56] [ INFO ] [BD:50] Estamos creando las tablas
+[2024-03-15 13:32:56] [ INFO ] [BD:74] Se crearon las tablas exitosamente
+[2024-03-15 13:33:41] [ INFO ] [BD:50] Estamos creando las tablas
+[2024-03-15 13:33:41] [ INFO ] [BD:74] Se crearon las tablas exitosamente
+[2024-03-15 14:08:47] [ INFO ] [BD:50] Estamos creando las tablas
+[2024-03-15 14:08:47] [ INFO ] [BD:74] Se crearon las tablas exitosamente
+[2024-03-15 14:12:57] [ INFO ] [BD:50] Estamos creando las tablas
+[2024-03-15 14:12:58] [ INFO ] [BD:74] Se crearon las tablas exitosamente
+[2024-03-15 14:25:30] [ INFO ] [BD:50] Estamos creando las tablas
+[2024-03-15 14:25:30] [ INFO ] [BD:74] Se crearon las tablas exitosamente
+[2024-03-15 14:29:55] [ INFO ] [BD:50] Estamos creando las tablas
+[2024-03-15 14:29:56] [ INFO ] [BD:74] Se crearon las tablas exitosamente
+[2024-03-15 14:31:13] [ INFO ] [BD:50] Estamos creando las tablas
+[2024-03-15 14:31:14] [ INFO ] [BD:74] Se crearon las tablas exitosamente
+[2024-03-15 14:34:36] [ INFO ] [BD:50] Estamos creando las tablas
+[2024-03-15 14:34:36] [ INFO ] [BD:74] Se crearon las tablas exitosamente
+[2024-03-15 14:35:57] [ INFO ] [BD:50] Estamos creando las tablas
+[2024-03-15 14:35:57] [ INFO ] [BD:74] Se crearon las tablas exitosamente
+[2024-03-15 14:38:34] [ INFO ] [BD:50] Estamos creando las tablas
+[2024-03-15 14:38:34] [ INFO ] [BD:74] Se crearon las tablas exitosamente
+[2024-03-15 14:40:37] [ INFO ] [BD:50] Estamos creando las tablas
+[2024-03-15 14:40:38] [ INFO ] [BD:74] Se crearon las tablas exitosamente
+[2024-03-15 14:43:53] [ INFO ] [BD:50] Estamos creando las tablas
+[2024-03-15 14:43:54] [ INFO ] [BD:74] Se crearon las tablas exitosamente
+[2024-03-15 14:47:26] [ INFO ] [BD:52] Estamos creando las tablas
+[2024-03-15 14:47:27] [ INFO ] [BD:76] Se crearon las tablas exitosamente
+[2024-03-15 14:48:57] [ INFO ] [BD:51] Estamos creando las tablas
+[2024-03-15 14:48:58] [ INFO ] [BD:75] Se crearon las tablas exitosamente
+[2024-03-15 14:49:25] [ INFO ] [BD:51] Estamos creando las tablas
+[2024-03-15 14:49:26] [ INFO ] [BD:75] Se crearon las tablas exitosamente
+[2024-03-15 14:50:54] [ INFO ] [BD:51] Estamos creando las tablas
+[2024-03-15 14:50:55] [ INFO ] [BD:75] Se crearon las tablas exitosamente
+[2024-03-15 14:53:11] [ INFO ] [BD:51] Estamos creando las tablas
+[2024-03-15 14:53:12] [ INFO ] [BD:75] Se crearon las tablas exitosamente
+[2024-03-15 14:54:21] [ INFO ] [BD:51] Estamos creando las tablas
+[2024-03-15 14:54:22] [ INFO ] [BD:75] Se crearon las tablas exitosamente
+[2024-03-15 14:55:53] [ INFO ] [BD:51] Estamos creando las tablas
+[2024-03-15 14:55:53] [ INFO ] [BD:75] Se crearon las tablas exitosamente
+[2024-03-15 15:06:50] [ INFO ] [BD:51] Estamos creando las tablas
+[2024-03-15 15:06:51] [ INFO ] [BD:75] Se crearon las tablas exitosamente
+[2024-03-15 15:07:16] [ INFO ] [OdontologoDaoH2:59] Estamos consultando todos los odontologos
+[2024-03-15 15:07:17] [ INFO ] [OdontologoDaoH2:88] Se consultaron todos los odontologos exitosamente
+[2024-03-15 15:07:47] [ INFO ] [BD:51] Estamos creando las tablas
+[2024-03-15 15:07:47] [ INFO ] [BD:75] Se crearon las tablas exitosamente
+[2024-03-15 15:12:54] [ INFO ] [BD:51] Estamos creando las tablas
+[2024-03-15 15:12:55] [ INFO ] [BD:75] Se crearon las tablas exitosamente
+[2024-03-15 15:13:09] [ INFO ] [OdontologoDaoH2:59] Estamos consultando todos los odontologos
+[2024-03-15 15:13:10] [ INFO ] [OdontologoDaoH2:88] Se consultaron todos los odontologos exitosamente
+[2024-03-15 15:20:26] [ INFO ] [OdontologoDaoH2:24] Estamos persistiendo un odontologo
+[2024-03-15 15:20:26] [ INFO ] [OdontologoDaoH2:52] Se persistio un nuevo odontologo exitosamente
+[2024-03-15 15:20:47] [ INFO ] [OdontologoDaoH2:59] Estamos consultando todos los odontologos
+[2024-03-15 15:20:48] [ INFO ] [OdontologoDaoH2:88] Se consultaron todos los odontologos exitosamente
+[2024-03-15 15:21:25] [ INFO ] [OdontologoDaoH2:94] Estamos buscando un odontologo por el id: 1
+[2024-03-15 15:21:25] [ INFO ] [OdontologoDaoH2:120] Se realizo una busqueda de odontologo por su id: 1
+[2024-03-15 15:21:29] [ INFO ] [OdontologoDaoH2:94] Estamos buscando un odontologo por el id: 2
+[2024-03-15 15:21:29] [ INFO ] [OdontologoDaoH2:120] Se realizo una busqueda de odontologo por su id: 2
+[2024-03-15 15:21:32] [ INFO ] [OdontologoDaoH2:94] Estamos buscando un odontologo por el id: 3
+[2024-03-15 15:21:32] [ INFO ] [OdontologoDaoH2:120] Se realizo una busqueda de odontologo por su id: 3
+[2024-03-15 15:27:37] [ INFO ] [BD:51] Estamos creando las tablas
+[2024-03-15 15:27:38] [ INFO ] [BD:75] Se crearon las tablas exitosamente
+[2024-03-15 15:27:46] [ INFO ] [OdontologoDaoH2:59] Estamos consultando todos los odontologos
+[2024-03-15 15:27:46] [ INFO ] [OdontologoDaoH2:88] Se consultaron todos los odontologos exitosamente
+[2024-03-15 15:36:32] [ INFO ] [BD:51] Estamos creando las tablas
+[2024-03-15 15:36:33] [ INFO ] [BD:75] Se crearon las tablas exitosamente
+[2024-03-15 15:36:39] [ INFO ] [DomicilioDaoH2:63] Estamos consultando todos los pacientes
+[2024-03-15 15:36:39] [ INFO ] [DomicilioDaoH2:94] Se consultaron todos los odontologos exitosamente
+[2024-03-15 15:45:37] [ INFO ] [BD:51] Estamos creando las tablas
+[2024-03-15 15:45:37] [ ERROR] [BD:66] Error al crear las tablas: Error de Sintaxis en sentencia SQL "INSERT INTO PACIENTES (NOMBRE, APELLIDO, DNI, FECHA_INGRESO, DOMICILIO_ID) VALUES ('Mirtha', 'Legrand', '456','2024-01-14', 1, {'Av. Libertador', 444, 'Núñez','Buenos Aires[*]'})"
+Syntax error in SQL statement "INSERT INTO PACIENTES (NOMBRE, APELLIDO, DNI, FECHA_INGRESO, DOMICILIO_ID) VALUES ('Mirtha', 'Legrand', '456','2024-01-14', 1, {'Av. Libertador', 444, 'Núñez','Buenos Aires[*]'})" [42000-224]
+[2024-03-15 15:45:37] [ INFO ] [BD:74] Se crearon las tablas exitosamente
+[2024-03-15 15:45:54] [ INFO ] [DomicilioDaoH2:63] Estamos consultando todos los pacientes
+[2024-03-15 15:45:54] [ INFO ] [DomicilioDaoH2:94] Se consultaron todos los odontologos exitosamente
+[2024-03-15 15:45:56] [ INFO ] [DomicilioDaoH2:63] Estamos consultando todos los pacientes
+[2024-03-15 15:45:57] [ INFO ] [DomicilioDaoH2:94] Se consultaron todos los odontologos exitosamente
+[2024-03-15 15:47:20] [ INFO ] [DomicilioDaoH2:63] Estamos consultando todos los pacientes
+[2024-03-15 15:47:20] [ INFO ] [DomicilioDaoH2:94] Se consultaron todos los odontologos exitosamente
+[2024-03-15 15:47:22] [ INFO ] [DomicilioDaoH2:63] Estamos consultando todos los pacientes
+[2024-03-15 15:47:22] [ INFO ] [DomicilioDaoH2:94] Se consultaron todos los odontologos exitosamente
+[2024-03-15 15:47:31] [ INFO ] [BD:51] Estamos creando las tablas
+[2024-03-15 15:47:31] [ INFO ] [BD:75] Se crearon las tablas exitosamente
+[2024-03-15 15:47:35] [ INFO ] [DomicilioDaoH2:63] Estamos consultando todos los pacientes
+[2024-03-15 15:47:35] [ INFO ] [DomicilioDaoH2:94] Se consultaron todos los odontologos exitosamente
+[2024-03-15 15:48:55] [ INFO ] [DomicilioDaoH2:63] Estamos consultando todos los pacientes
+[2024-03-15 15:48:56] [ INFO ] [DomicilioDaoH2:94] Se consultaron todos los odontologos exitosamente
+[2024-03-15 15:51:46] [ INFO ] [DomicilioDaoH2:27] Estamos persistiendo un paciente
+[2024-03-15 15:51:46] [ INFO ] [DomicilioDaoH2:26] Estamos guardando un domicilio
+[2024-03-15 15:51:46] [ INFO ] [DomicilioDaoH2:54] Se guardo un nuevo domicilio exitosamente
+[2024-03-15 15:51:47] [ INFO ] [DomicilioDaoH2:57] Se creo un paciente nuevo
+[2024-03-15 15:52:50] [ INFO ] [DomicilioDaoH2:63] Estamos consultando todos los pacientes
+[2024-03-15 15:52:50] [ INFO ] [DomicilioDaoH2:94] Se consultaron todos los odontologos exitosamente
+[2024-03-15 15:53:53] [ INFO ] [DomicilioDaoH2:63] Estamos consultando todos los pacientes
+[2024-03-15 15:53:53] [ INFO ] [DomicilioDaoH2:94] Se consultaron todos los odontologos exitosamente
+[2024-03-15 16:00:38] [ INFO ] [BD:51] Estamos creando las tablas
+[2024-03-15 16:00:39] [ INFO ] [BD:75] Se crearon las tablas exitosamente
+[2024-03-15 16:00:47] [ INFO ] [DomicilioDaoH2:63] Estamos consultando todos los pacientes
+[2024-03-15 16:00:47] [ INFO ] [DomicilioDaoH2:94] Se consultaron todos los pacientes exitosamente
+[2024-03-15 16:01:05] [ INFO ] [DomicilioDaoH2:27] Estamos persistiendo un paciente
+[2024-03-15 16:01:05] [ INFO ] [DomicilioDaoH2:26] Estamos guardando un domicilio
+[2024-03-15 16:01:05] [ INFO ] [DomicilioDaoH2:54] Se guardo un nuevo domicilio exitosamente
+[2024-03-15 16:01:05] [ ERROR] [DomicilioDaoH2:49] Error al crear un paciente nuevo:Columna "DOMICILIO" no encontrada
+Column "DOMICILIO" not found; SQL statement:
+INSERT INTO PACIENTES (NOMBRE, APELLIDO, DNI, FECHA_INGRESO, DOMICILIO) VALUES (?,?,?,?,?) [42122-224]
+[2024-03-15 16:01:06] [ INFO ] [DomicilioDaoH2:57] Se creo un paciente nuevo
+[2024-03-15 16:01:09] [ INFO ] [DomicilioDaoH2:63] Estamos consultando todos los pacientes
+[2024-03-15 16:01:10] [ INFO ] [DomicilioDaoH2:94] Se consultaron todos los pacientes exitosamente
+[2024-03-15 16:01:14] [ INFO ] [DomicilioDaoH2:63] Estamos consultando todos los pacientes
+[2024-03-15 16:01:14] [ INFO ] [DomicilioDaoH2:94] Se consultaron todos los pacientes exitosamente
+[2024-03-15 16:01:16] [ INFO ] [DomicilioDaoH2:63] Estamos consultando todos los pacientes
+[2024-03-15 16:01:17] [ INFO ] [DomicilioDaoH2:94] Se consultaron todos los pacientes exitosamente
+[2024-03-15 16:01:19] [ INFO ] [DomicilioDaoH2:63] Estamos consultando todos los pacientes
+[2024-03-15 16:01:19] [ INFO ] [DomicilioDaoH2:94] Se consultaron todos los pacientes exitosamente
+[2024-03-15 16:01:20] [ INFO ] [DomicilioDaoH2:63] Estamos consultando todos los pacientes
+[2024-03-15 16:01:20] [ INFO ] [DomicilioDaoH2:94] Se consultaron todos los pacientes exitosamente
+[2024-03-15 16:02:56] [ INFO ] [BD:51] Estamos creando las tablas
+[2024-03-15 16:02:57] [ INFO ] [BD:75] Se crearon las tablas exitosamente
+[2024-03-15 16:03:07] [ INFO ] [DomicilioDaoH2:25] Estamos persistiendo un paciente
+[2024-03-15 16:03:07] [ INFO ] [DomicilioDaoH2:26] Estamos guardando un domicilio
+[2024-03-15 16:03:08] [ INFO ] [DomicilioDaoH2:54] Se guardo un nuevo domicilio exitosamente
+[2024-03-15 16:03:08] [ INFO ] [DomicilioDaoH2:55] Se creo un paciente nuevo
+[2024-03-15 16:03:11] [ INFO ] [DomicilioDaoH2:61] Estamos consultando todos los pacientes
+[2024-03-15 16:03:11] [ INFO ] [DomicilioDaoH2:92] Se consultaron todos los pacientes exitosamente
+[2024-03-15 16:11:47] [ INFO ] [BD:51] Estamos creando las tablas
+[2024-03-15 16:11:48] [ INFO ] [BD:75] Se crearon las tablas exitosamente
+[2024-03-15 16:18:21] [ INFO ] [BD:51] Estamos creando las tablas
+[2024-03-15 16:18:22] [ INFO ] [BD:75] Se crearon las tablas exitosamente
+[2024-03-15 16:18:35] [ INFO ] [DomicilioDaoH2:61] Estamos consultando todos los pacientes
+[2024-03-15 16:18:35] [ INFO ] [DomicilioDaoH2:92] Se consultaron todos los pacientes exitosamente
+[2024-03-15 16:21:59] [ INFO ] [DomicilioDaoH2:61] Estamos consultando todos los pacientes
+[2024-03-15 16:21:59] [ INFO ] [DomicilioDaoH2:92] Se consultaron todos los pacientes exitosamente
+[2024-03-15 16:22:06] [ INFO ] [OdontologoDaoH2:59] Estamos consultando todos los odontologos
+[2024-03-15 16:22:07] [ INFO ] [OdontologoDaoH2:88] Se consultaron todos los odontologos exitosamente
+[2024-03-15 16:22:43] [ INFO ] [OdontologoDaoH2:94] Estamos buscando un odontologo por el id: 1
+[2024-03-15 16:22:44] [ INFO ] [OdontologoDaoH2:120] Se realizo una busqueda de odontologo por su id: 1
+[2024-03-15 16:22:44] [ INFO ] [DomicilioDaoH2:98] Estamos buscando un paciente por el id: 1
+[2024-03-15 16:22:44] [ INFO ] [DomicilioDaoH2:125] Se realizo la busqueda del paciente con id: 1
+[2024-03-15 16:25:07] [ INFO ] [BD:51] Estamos creando las tablas
+[2024-03-15 16:25:08] [ INFO ] [BD:75] Se crearon las tablas exitosamente
+[2024-03-15 16:25:41] [ INFO ] [BD:51] Estamos creando las tablas
+[2024-03-15 16:25:42] [ INFO ] [BD:75] Se crearon las tablas exitosamente
+[2024-03-15 16:25:49] [ INFO ] [OdontologoDaoH2:59] Estamos consultando todos los odontologos
+[2024-03-15 16:25:49] [ INFO ] [OdontologoDaoH2:88] Se consultaron todos los odontologos exitosamente
+[2024-03-15 16:25:54] [ INFO ] [DomicilioDaoH2:61] Estamos consultando todos los pacientes
+[2024-03-15 16:25:54] [ INFO ] [DomicilioDaoH2:92] Se consultaron todos los pacientes exitosamente
+[2024-03-15 16:30:26] [ INFO ] [BD:51] Estamos creando las tablas
+[2024-03-15 16:30:27] [ INFO ] [BD:75] Se crearon las tablas exitosamente
+[2024-03-15 16:30:47] [ INFO ] [OdontologoDaoH2:59] Estamos consultando todos los odontologos
+[2024-03-15 16:30:47] [ INFO ] [OdontologoDaoH2:88] Se consultaron todos los odontologos exitosamente
+[2024-03-15 16:31:05] [ INFO ] [OdontologoDaoH2:24] Estamos persistiendo un odontologo
+[2024-03-15 16:31:06] [ INFO ] [OdontologoDaoH2:52] Se persistio un nuevo odontologo exitosamente
+[2024-03-15 16:31:08] [ INFO ] [OdontologoDaoH2:59] Estamos consultando todos los odontologos
+[2024-03-15 16:31:08] [ INFO ] [OdontologoDaoH2:88] Se consultaron todos los odontologos exitosamente
