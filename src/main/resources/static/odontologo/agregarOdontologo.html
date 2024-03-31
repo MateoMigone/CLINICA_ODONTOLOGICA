@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <title>Clinica Odontológica | Odontólogos</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css">
+</head>
+<body>
+
+<nav class="navbar navbar-expand-lg navbar-light bg-success g-5">
+    <a class="navbar-brand text-white" href="/index.html">Clínica Odontológica</a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+    </button>
+
+    <div class="collapse navbar-collapse pl-5" id="navbarSupportedContent">
+        <ul class="navbar-nav mr-auto">
+
+            <li class="nav-item dropdown">
+                <a class="nav-link dropdown-toggle text-white" href="#" role="button" data-toggle="dropdown" aria-expanded="false">
+                    Gestión odontólogos
+                </a>
+                <div class="dropdown-menu">
+                    <a class="dropdown-item text-success" href="listarOdontologos.html">Listar odontólogos</a>
+                    <a class="dropdown-item text-success" href="agregarOdontologo.html">Agregar odontólogo</a>
+                    <a class="dropdown-item text-success" href="actualizarOdontologo.html">Modificar odontólogo</a>
+                    <a class="dropdown-item text-success" href="eliminarOdontologo.html">Eliminar odontólogo</a>
+                </div>
+            </li>
+
+            <li class="nav-item dropdown">
+                <a class="nav-link dropdown-toggle text-white" href="#" role="button" data-toggle="dropdown" aria-expanded="false">
+                    Gestión pacientes
+                </a>
+                <div class="dropdown-menu">
+                    <a class="dropdown-item text-success" href="../paciente/listarPacientes.html">Listar pacientes</a>
+                    <a class="dropdown-item text-success" href="../paciente/agregarPaciente.html">Agregar paciente</a>
+                    <a class="dropdown-item text-success" href="../paciente/actualizarPaciente.html">Modificar paciente</a>
+                    <a class="dropdown-item text-success" href="../paciente/eliminarPaciente.html">Eliminar paciente</a>
+                </div>
+            </li>
+
+            <li class="nav-item dropdown">
+                <a class="nav-link dropdown-toggle text-white" href="#" role="button" data-toggle="dropdown" aria-expanded="false">
+                    Gestión turnos
+                </a>
+                <div class="dropdown-menu">
+                    <a class="dropdown-item text-success" href="../turno/listarTurnos.html">Listar turnos</a>
+                    <a class="dropdown-item text-success" href="../turno/agregarTurno.html">Agregar turno</a>
+                    <a class="dropdown-item text-success" href="../turno/actualizarTurno.html">Modificar turno</a>
+                    <a class="dropdown-item text-success" href="../turno/eliminarTurno.html">Eliminar turno</a>
+                </div>
+            </li>
+
+        </ul>
+
+    </div>
+</nav>
+
+<div class="container mt-5">
+
+    <div class="row justify-content-center">
+        <div class="col-sm-7 bg-dark text-white" style="padding:30px 50px; border-radius:10px">
+            <h3 class="mb-4">Agregar odontólogo</h3>
+            <form id="add_new_dentist">
+                <div class="form-group">
+                    <label class="control-label" for="nombre">Nombre:</label>
+                    <input type="text" class="form-control" id="nombre"
+                           placeholder="Ingrese el nombre"
+                           name="nombre" required></input>
+                </div>
+                <div class="form-group">
+                    <label class="control-label" for="apellido">Apellido:</label>
+                    <input type="text" class="form-control" id="apellido"
+                           placeholder="Ingrese el apellido"
+                           name="apellido" required></input>
+                </div>
+
+                <div class="form-group">
+                    <label class="control-label" for="matricula">Matrícula:</label>
+                    <input type="text" class="form-control" id="matricula"
+                           placeholder="Ingrese la matrícula"
+                           name="matricula" required></input>
+                </div>
+
+
+                <button type="submit" class="btn btn-danger mt-3"
+                        id="btn-add-new-dentist">Guardar</button>
+            </form>
+            <div id="response" style="display:none; margin-top:10px">
+            </div>
+        </div>
+    </div>
+</div>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"></script>
+<script type="text/javascript" src="../js/odontologo/post_odontologo.js"></script>
+</body>
+</html>

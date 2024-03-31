@@ -1,8 +1,5 @@
 window.addEventListener('load', function () {
     (function(){
-
-      //con fetch invocamos a la API de odontólogos con el método GET
-      //nos devolverá un JSON con una colección de odontólogos
       const url = '/odontologos';
       const settings = {
         method: 'GET'
@@ -11,10 +8,7 @@ window.addEventListener('load', function () {
       fetch(url,settings)
       .then(response => response.json())
       .then(data => {
-      //recorremos la colección de odontólogos del JSON
          for(dentist of data){
-            //por cada odontólogo armaremos una fila de la tabla
-            //cada fila tendrá un id que luego nos permitirá borrar la fila si eliminamos el odontólogo
             var table = document.getElementById("dentistTable");
             var dentistRow =table.insertRow();
             let tr_id = 'tr_' + dentist.id;
@@ -32,13 +26,12 @@ window.addEventListener('load', function () {
 
     })
     })
-
+    // DEJE ESTA FUNCIÓN PORQUE CREÍA QUE NO ERA NECESARIA PARA EL FUNCIONAMIENTO PERO POR ALGÚN MOTIVO
+    // DEJA DE FUNCIONAR SI LA ELIMINO.
     (function(){
-      let pathname = window.location.pathname;
-      if (pathname == "/odontologoLista.html") {
-          document.querySelector(".nav .nav-item a:last").addClass("active");
-      }
-    })
-
-
+          let pathname = window.location.pathname;
+          if (pathname == "/odontologoLista.html") {
+              document.querySelector(".nav .nav-item a:last").addClass("active");
+          }
+        })
     })

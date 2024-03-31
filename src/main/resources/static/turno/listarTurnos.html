@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <title>Clinica Odontológica | Turnos</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css">
+</head>
+<body>
+
+<nav class="navbar navbar-expand-lg navbar-light bg-success g-5">
+    <a class="navbar-brand text-white" href="/index.html">Clínica Odontológica</a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+    </button>
+
+    <div class="collapse navbar-collapse pl-5" id="navbarSupportedContent">
+        <ul class="navbar-nav mr-auto">
+
+            <li class="nav-item dropdown">
+                <a class="nav-link dropdown-toggle text-white" href="#" role="button" data-toggle="dropdown" aria-expanded="false">
+                    Gestión odontólogos
+                </a>
+                <div class="dropdown-menu">
+                    <a class="dropdown-item text-success" href="../odontologo/listarOdontologos.html">Listar odontólogos</a>
+                    <a class="dropdown-item text-success" href="../odontologo/agregarOdontologo.html">Agregar odontólogo</a>
+                    <a class="dropdown-item text-success" href="../odontologo/actualizarOdontologo.html">Modificar odontólogo</a>
+                    <a class="dropdown-item text-success" href="../odontologo/eliminarOdontologo.html">Eliminar odontólogo</a>
+                </div>
+            </li>
+
+            <li class="nav-item dropdown">
+                <a class="nav-link dropdown-toggle text-white" href="#" role="button" data-toggle="dropdown" aria-expanded="false">
+                    Gestión pacientes
+                </a>
+                <div class="dropdown-menu">
+                    <a class="dropdown-item text-success" href="../paciente/listarPacientes.html">Listar pacientes</a>
+                    <a class="dropdown-item text-success" href="../paciente/agregarPaciente.html">Agregar paciente</a>
+                    <a class="dropdown-item text-success" href="../paciente/actualizarPaciente.html">Modificar paciente</a>
+                    <a class="dropdown-item text-success" href="../paciente/eliminarPaciente.html">Eliminar paciente</a>
+                </div>
+            </li>
+
+            <li class="nav-item dropdown">
+                <a class="nav-link dropdown-toggle text-white" href="#" role="button" data-toggle="dropdown" aria-expanded="false">
+                    Gestión turnos
+                </a>
+                <div class="dropdown-menu">
+                    <a class="dropdown-item text-success" href="listarTurnos.html">Listar turnos</a>
+                    <a class="dropdown-item text-success" href="agregarTurno.html">Agregar turno</a>
+                    <a class="dropdown-item text-success" href="actualizarTurno.html">Modificar turno</a>
+                    <a class="dropdown-item text-success" href="eliminarTurno.html">Eliminar turno</a>
+                </div>
+            </li>
+
+        </ul>
+
+    </div>
+</nav>
+
+
+<div class="container mt-5">
+    <div id="div_turn_table">
+        <h1 class="mb-4 pt-3">Turnos</h1>
+        <div class="row col-md-9 table-responsive">
+            <table id="turnTable" class="table table-striped">
+                <thead class="thead-dark text-center">
+                <tr>
+                    <th>Id</th>
+                    <th>Id odontólogo</th>
+                    <th>Odontologo</th>
+                    <th>Id paciente</th>
+                    <th>Paciente</th>
+                    <th>Fecha</th>
+                </tr>
+                </thead>
+                <tbody id="tutnTableBody">
+
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"></script>
+<script text="text/javascript" src="../js/turno/get_turno.js"></script>
+</body>
+</html>

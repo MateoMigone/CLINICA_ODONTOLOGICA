@@ -1,18 +1,20 @@
 package com.example.clinicaodontologica.service;
 
-import com.example.clinicaodontologica.model.Turno;
+import com.example.clinicaodontologica.dto.request.TurnoRequestDTO;
+import com.example.clinicaodontologica.dto.response.TurnoResponseDTO;
+import com.example.clinicaodontologica.entity.Turno;
 import org.springframework.stereotype.Service;
 
 import java.util.List;
 
 @Service
 public interface ITurnoService {
-    Turno guardar(Turno turno);
+    TurnoResponseDTO guardar(TurnoRequestDTO turnoRequestDTO);
     List<Turno> listarTodos();
 
-    Turno buscarPorId(Integer id);
+    Turno buscarPorId(Long id);
 
-    void eliminar(Integer id);
+    void eliminar(Long id);
 
-    void actualizar(Turno turno);
+    void actualizar(TurnoResponseDTO turnoResponseDTO);
 }

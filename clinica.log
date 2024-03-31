@@ -187,3 +187,19 @@ INSERT INTO PACIENTES (NOMBRE, APELLIDO, DNI, FECHA_INGRESO, DOMICILIO) VALUES (
 [2024-03-15 16:31:06] [ INFO ] [OdontologoDaoH2:52] Se persistio un nuevo odontologo exitosamente
 [2024-03-15 16:31:08] [ INFO ] [OdontologoDaoH2:59] Estamos consultando todos los odontologos
 [2024-03-15 16:31:08] [ INFO ] [OdontologoDaoH2:88] Se consultaron todos los odontologos exitosamente
+[2024-03-19 15:52:37] [ INFO ] [BD:51] Estamos creando las tablas
+[2024-03-19 15:52:38] [ INFO ] [BD:75] Se crearon las tablas exitosamente
+[2024-03-19 15:52:46] [ INFO ] [OdontologoDaoH2:59] Estamos consultando todos los odontologos
+[2024-03-19 15:52:46] [ INFO ] [OdontologoDaoH2:88] Se consultaron todos los odontologos exitosamente
+[2024-03-19 15:52:54] [ INFO ] [OdontologoDaoH2:59] Estamos consultando todos los odontologos
+[2024-03-19 15:52:54] [ INFO ] [OdontologoDaoH2:88] Se consultaron todos los odontologos exitosamente
+[2024-03-19 15:53:02] [ INFO ] [OdontologoDaoH2:59] Estamos consultando todos los odontologos
+[2024-03-19 15:53:02] [ INFO ] [OdontologoDaoH2:88] Se consultaron todos los odontologos exitosamente
+[2024-03-19 15:56:13] [ INFO ] [BD:51] Estamos creando las tablas
+[2024-03-19 15:56:14] [ INFO ] [BD:75] Se crearon las tablas exitosamente
+[2024-03-19 15:56:20] [ INFO ] [OdontologoDaoH2:59] Estamos consultando todos los odontologos
+[2024-03-19 15:56:20] [ INFO ] [OdontologoDaoH2:88] Se consultaron todos los odontologos exitosamente
+[2024-03-19 15:56:25] [ INFO ] [OdontologoDaoH2:59] Estamos consultando todos los odontologos
+[2024-03-19 15:56:25] [ INFO ] [OdontologoDaoH2:88] Se consultaron todos los odontologos exitosamente
+[2024-03-19 15:58:39] [ INFO ] [BD:51] Estamos creando las tablas
+[2024-03-19 15:58:39] [ INFO ] [BD:75] Se crearon las tablas exitosamente
